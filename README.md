@@ -1,3 +1,8 @@
+# Introduction
+ここはFZY = snの作成したURA初心者のための教科書です。
+
+メインコンテンツはWiki for URA Beginnerを使用してください。
+
 # document
 このディレクトリに保存した文書は、Creative Commons Zero, CC0として公開します。
 
