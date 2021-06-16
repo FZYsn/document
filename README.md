@@ -1,7 +1,7 @@
 # Introduction
 ここはFZY = snの作成したURA初心者のための教科書です。
 
-メインコンテンツはWiki for URA Beginnerを使用してください。
+メインコンテンツは[Wiki for URA Beginner](https://github.com/FZYsn/for-URA-beginners/wiki)を使用してください。
 
 # document
 このディレクトリに保存した文書は、Creative Commons Zero, CC0として公開します。
