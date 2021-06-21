@@ -1,3 +1,8 @@
+# このプロジェクトは
+Wikiがメインコンテンツです。
+
+https://github.com/FZYsn/kenkyu-sien/wiki
+
 # document
 このディレクトリに保存した文書は、Creative Commons Zero, CC0として公開します。
 
