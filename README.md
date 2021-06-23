@@ -1,4 +1,4 @@
-# このプロジェクトは
+# repository
 Wikiがメインコンテンツです。
 
 https://github.com/FZYsn/kenkyu-sien/wiki
